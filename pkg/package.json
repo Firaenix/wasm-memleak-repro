@@ -1,0 +1,14 @@
+{
+  "name": "wasm-memleak-repro",
+  "collaborators": [
+    "Nick Carton <nick.carton@protonmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_memleak_repro_bg.wasm",
+    "wasm_memleak_repro.js",
+    "wasm_memleak_repro.d.ts"
+  ],
+  "main": "wasm_memleak_repro.js",
+  "types": "wasm_memleak_repro.d.ts"
+}
